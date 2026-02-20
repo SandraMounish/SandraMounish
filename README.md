@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I’m a final-year Computer Science Engineering student (4-2) at SVCE, passionate about building real-world applications and solving problems through code.<br>I’m currently training as a Full Stack Developer at KodNest, where I’m strengthening my skills in frontend and backend technologies.<br>I enjoy learning new technologies, improving my problem-solving skills, and working on projects that create real impact.<br>
+I’m a final-year Computer Science Engineering student (4-2) at SVCE, passionate about building real-world applications and solving problems through code.<br>
+
+I’m currently training as a Full Stack Developer at KodNest, where I’m strengthening my skills in frontend and backend technologies.<br>
+
+I enjoy learning new technologies, improving my problem-solving skills, and working on projects that create real impact.<br>
 
 
 ## 🌐 Socials:
